@@ -1,0 +1,7 @@
+C:\CURSOS\C#\projetos\1041_Coordenadas\1041_Coordenadas\bin\Debug\1041_Coordenadas.exe.config
+C:\CURSOS\C#\projetos\1041_Coordenadas\1041_Coordenadas\bin\Debug\1041_Coordenadas.exe
+C:\CURSOS\C#\projetos\1041_Coordenadas\1041_Coordenadas\bin\Debug\1041_Coordenadas.pdb
+C:\CURSOS\C#\projetos\1041_Coordenadas\1041_Coordenadas\obj\Debug\1041_Coordenadas.csproj.AssemblyReference.cache
+C:\CURSOS\C#\projetos\1041_Coordenadas\1041_Coordenadas\obj\Debug\1041_Coordenadas.csproj.CoreCompileInputs.cache
+C:\CURSOS\C#\projetos\1041_Coordenadas\1041_Coordenadas\obj\Debug\1041_Coordenadas.exe
+C:\CURSOS\C#\projetos\1041_Coordenadas\1041_Coordenadas\obj\Debug\1041_Coordenadas.pdb
